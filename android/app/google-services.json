@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542393429154",
+    "firebase_url": "https://projectchat-1f694.firebaseio.com",
+    "project_id": "projectchat-1f694",
+    "storage_bucket": "projectchat-1f694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542393429154:android:625c09d56e0303d1",
+        "android_client_info": {
+          "package_name": "com.tele.telechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542393429154-v110rpid1ob3c7e9fhe9k6gfiq79599q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tele.telechat",
+            "certificate_hash": "552db2be7465bb2aabc9f1f3208a48e1d4b02c3c"
+          }
+        },
+        {
+          "client_id": "542393429154-cq1f8lm35bovruk1vs5dnqkmu2ongf1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YSgodpux38vyCp62vIEJri38HyhIIDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542393429154-cq1f8lm35bovruk1vs5dnqkmu2ongf1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
